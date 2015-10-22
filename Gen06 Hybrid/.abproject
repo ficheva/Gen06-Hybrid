@@ -1,11 +1,11 @@
 {
   "ProjectName": "Gen06 Hybrid",
-  "ProjectGuid": "d37831cf-8ec8-44d2-a425-2bc5036ddb64",
+  "ProjectGuid": "a6cd5121-53e4-45d5-9dc5-5d699013d142",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.Gen06Hybrid",
-  "DisplayName": "Gen06 Hybrid",
+  "AppIdentifier": "com.telerik.gen06Hybrid",
+  "DisplayName": "gen 06 Hybrid",
   "Author": "",
-  "Description": "Gen06 Hybrid",
+  "Description": "gen 06 Hybrid",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -32,10 +32,10 @@
     "ID_CAP_WEBBROWSERCOMPONENT"
   ],
   "WP8Requirements": [],
-  "WP8PublisherID": "{cf9f77b7-8e7b-4a82-a634-be6410cac6e5}",
-  "WP8ProductID": "{8f5a2018-5189-49ab-9866-73c45074c3a1}",
+  "WP8PublisherID": "{53fa593d-807f-4cd3-939d-fba73cfa2ef8}",
+  "WP8ProductID": "{c9aa4cc1-74ed-45c0-9e18-aa826525b55c}",
   "WPSdk": "8.0",
-  "WP8PackageIdentityName": "1234Telerik.Gen06Hybrid",
+  "WP8PackageIdentityName": "1234Telerik.gen06Hybrid",
   "WP8WindowsPublisherName": "CN=Telerik",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
@@ -43,6 +43,7 @@
     "ID_RESOLUTION_HD720P"
   ],
   "CorePlugins": [
+    "org.apache.cordova.inappbrowser",
     "org.apache.cordova.network-information"
   ]
 }
